@@ -1,0 +1,4 @@
+<connectionStrings>
+  <add name="ConnectionToServer" connectionString="Data Source=SUKHOMLYN;Integrated Security=true;" providerName="System.Data.SqlClient" />
+  <add name="ConnectionToDatabase" connectionString="Data Source=SUKHOMLYN;Initial Catalog=DBcontroller;Integrated Security=true" providerName="System.Data.SqlClient" />
+</connectionStrings>

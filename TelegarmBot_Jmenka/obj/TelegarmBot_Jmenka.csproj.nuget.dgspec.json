@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dokto\\OneDrive\\Рабочий стол\\TelegramBotKPI\\TelegarmBot_Jmenka\\TelegarmBot_Jmenka\\TelegarmBot_Jmenka.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dokto\\OneDrive\\Рабочий стол\\TelegramBotKPI\\TelegarmBot_Jmenka\\TelegarmBot_Jmenka\\TelegarmBot_Jmenka.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dokto\\OneDrive\\Рабочий стол\\TelegramBotKPI\\TelegarmBot_Jmenka\\TelegarmBot_Jmenka\\TelegarmBot_Jmenka.csproj",
+        "projectName": "TelegarmBot_Jmenka",
+        "projectPath": "C:\\Users\\dokto\\OneDrive\\Рабочий стол\\TelegramBotKPI\\TelegarmBot_Jmenka\\TelegarmBot_Jmenka\\TelegarmBot_Jmenka.csproj",
+        "packagesPath": "C:\\Users\\dokto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dokto\\OneDrive\\Рабочий стол\\TelegramBotKPI\\TelegarmBot_Jmenka\\TelegarmBot_Jmenka\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Users\\dokto\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dokto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dokto\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Google.Cloud.Speech.V1": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "OpenAI": {
+              "target": "Package",
+              "version": "[1.7.2, )"
+            },
+            "Telegram.Bot": {
+              "target": "Package",
+              "version": "[19.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

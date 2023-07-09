@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegarmBot_Jmenka", "TelegarmBot_Jmenka\TelegarmBot_Jmenka.csproj", "{CA4DC99F-DE36-41BF-AC27-9664B97B3DAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA4DC99F-DE36-41BF-AC27-9664B97B3DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA4DC99F-DE36-41BF-AC27-9664B97B3DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA4DC99F-DE36-41BF-AC27-9664B97B3DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA4DC99F-DE36-41BF-AC27-9664B97B3DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44400C8F-0DDE-4C61-A307-C0FA07D93781}
+	EndGlobalSection
+EndGlobal
